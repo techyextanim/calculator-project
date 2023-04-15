@@ -1,0 +1,75 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+
+h1{
+   text-align: center;
+   color:brown;
+
+
+}
+
+
+.cal-card{
+    margin:0 auto;
+    width:400px;
+    text-align: center;
+    margin-top:12px;
+    box-shadow:5px 5px 5px black;
+    transition: 0.5s;
+    font-size:0;
+
+
+
+}
+
+.cal-card:hover{
+
+    box-shadow:10px 10px 10px seagreen;
+
+
+}
+
+.cal-head #head{
+
+       height:80px;
+       width:250px;
+       font-size:25px;
+       padding:0 8px;
+       letter-spacing:2px;
+       font-weight: bold;
+       text-align: right;
+
+
+
+}
+
+
+.btn{
+    height:60px;
+    width:67px;
+    background-color: cornflowerblue;
+    color:black;
+    font-size:25px;
+    font-weight: bold;
+
+
+
+
+
+}
+
+.btn-style{
+
+    background-color:black;
+    color:white;
+}
+
+.btn:hover{
+
+background-color:coral;
+color:blue
+
+}
